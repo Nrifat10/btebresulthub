@@ -1,0 +1,11 @@
+Page 1 of 1
+99901 - Demo Polytechnic Institute ,Dhaka
+1 It is to be notified all concerned that roll numbers who have passed in all subjects in the 5th Semester Examination of DIPLOMA IN ENGINEERING are listed below.
+700001 ( 3.52 ) 700002 ( 3.97 ) 700003 ( 2.84 ) 700004 ( 4.00 )
+2 Roll numbers of referred students with subject codes are listed below.
+700005 { 25751(T) } 700006 { 25751 (T,P), 66751 (T) }
+700007 { 67751(P), 25752(T,P), 25951(C) }
+99902 - Model Polytechnic Institute ,Chattogram
+700061 ( 3.10 ) 700062 { 3.45 } 700063 { 25751(T) }
+Note: [T] means Theory, [P] means Practical, [T,P] means Theory and Practical, [C] means Continuous Part
+Date : 10-11-2026
